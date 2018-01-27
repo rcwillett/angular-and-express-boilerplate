@@ -1,4 +1,4 @@
-# NightlifeCoordinationApp
+# Angular And Express Boilerplate
 
 ## About
 
